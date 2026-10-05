@@ -1,0 +1,451 @@
+bombas,planejador,semente,resolvivel,encontrou,sobreviveu,custo,nos_expandidos,nos_gerados,tempo_ms
+0,A* espaço-tempo,0,True,True,True,36,88,128,0.7154589999993632
+0,Gulosa espaço-tempo,0,True,True,True,56,35,62,0.28929100000052443
+0,A* ingênuo (2D),0,True,True,True,36,77,117,0.6168339999996775
+0,A* espaço-tempo,1,True,True,True,48,192,239,1.5383330000000583
+0,Gulosa espaço-tempo,1,True,True,True,60,33,53,0.2615419999996149
+0,A* ingênuo (2D),1,True,True,True,48,182,225,1.4532090000001219
+0,A* espaço-tempo,2,True,True,True,44,183,227,1.4629590000003745
+0,Gulosa espaço-tempo,2,True,True,True,52,33,53,0.25379200000053004
+0,A* ingênuo (2D),2,True,True,True,44,163,208,1.3027919999997195
+0,A* espaço-tempo,3,True,True,True,36,82,123,0.6591250000003157
+0,Gulosa espaço-tempo,3,True,True,True,72,33,52,0.26462500000068445
+0,A* ingênuo (2D),3,True,True,True,36,70,109,0.5551659999998293
+0,A* espaço-tempo,4,True,True,True,40,75,105,0.603749999999792
+0,Gulosa espaço-tempo,4,True,True,True,60,33,52,0.2563750000001974
+0,A* ingênuo (2D),4,True,True,True,40,60,90,0.4939999999997724
+0,A* espaço-tempo,5,True,True,True,44,155,199,1.2255829999991974
+0,Gulosa espaço-tempo,5,True,True,True,80,35,61,0.29716700000026464
+0,A* ingênuo (2D),5,True,True,True,44,156,203,1.255750000000333
+0,A* espaço-tempo,6,True,True,True,48,226,262,1.811000000000007
+0,Gulosa espaço-tempo,6,True,True,True,72,33,53,0.26450000000011187
+0,A* ingênuo (2D),6,True,True,True,48,208,245,1.6505829999999833
+0,A* espaço-tempo,7,True,True,True,44,136,177,1.1036249999998304
+0,Gulosa espaço-tempo,7,True,True,True,56,33,52,0.25770900000043895
+0,A* ingênuo (2D),7,True,True,True,44,119,160,0.9685839999997725
+0,A* espaço-tempo,8,True,True,True,36,73,107,0.5737500000000395
+0,Gulosa espaço-tempo,8,True,True,True,64,33,59,0.27833299999979744
+0,A* ingênuo (2D),8,True,True,True,36,65,100,0.5099579999994219
+0,A* espaço-tempo,9,True,True,True,43,81,116,0.6512090000008186
+0,Gulosa espaço-tempo,9,True,True,True,72,35,61,0.29237499999990035
+0,A* ingênuo (2D),9,True,True,False,40,63,96,0.5122910000006087
+0,A* espaço-tempo,10,True,True,True,36,66,102,0.5194160000003833
+0,Gulosa espaço-tempo,10,True,True,True,76,33,59,0.28229199999962873
+0,A* ingênuo (2D),10,True,True,True,36,52,87,0.4184589999995936
+0,A* espaço-tempo,11,True,True,True,36,91,138,0.7296659999997956
+0,Gulosa espaço-tempo,11,True,True,True,68,35,61,0.3062499999995083
+0,A* ingênuo (2D),11,True,True,True,36,81,129,0.6680839999999577
+0,A* espaço-tempo,12,True,True,True,36,59,89,0.46808399999953565
+0,Gulosa espaço-tempo,12,True,True,True,48,33,53,0.2547090000000196
+0,A* ingênuo (2D),12,True,True,True,36,44,73,0.3617909999995561
+0,A* espaço-tempo,13,True,True,True,44,146,196,1.1904999999998722
+0,Gulosa espaço-tempo,13,True,True,True,68,33,53,0.2657089999997808
+0,A* ingênuo (2D),13,True,True,True,44,133,182,1.0820420000001718
+0,A* espaço-tempo,14,True,True,True,48,166,198,1.3185000000000002
+0,Gulosa espaço-tempo,14,True,True,True,52,33,52,0.25074999999930014
+0,A* ingênuo (2D),14,True,True,False,44,144,181,1.12595800000026
+0,A* espaço-tempo,15,True,True,True,40,148,197,1.1628749999994525
+0,Gulosa espaço-tempo,15,True,True,True,60,33,51,0.25624999999962483
+0,A* ingênuo (2D),15,True,True,True,40,132,181,1.0443340000003687
+0,A* espaço-tempo,16,True,True,True,44,175,211,1.4144170000003342
+0,Gulosa espaço-tempo,16,True,True,True,76,33,53,0.27624999999975586
+0,A* ingênuo (2D),16,True,True,True,44,158,194,1.279832999999897
+0,A* espaço-tempo,17,True,True,True,40,151,189,1.1809999999998766
+0,Gulosa espaço-tempo,17,True,True,True,64,33,52,0.27070800000039696
+0,A* ingênuo (2D),17,True,True,True,40,133,171,1.0485830000002139
+0,A* espaço-tempo,18,False,False,False,,9,9,0.057208000000308346
+0,Gulosa espaço-tempo,18,False,False,False,,9,9,0.05520800000002879
+0,A* ingênuo (2D),18,False,True,False,44,110,147,0.8812499999999446
+0,A* espaço-tempo,19,True,True,True,40,131,173,1.0500829999999794
+0,Gulosa espaço-tempo,19,True,True,True,52,33,59,0.279249999999287
+0,A* ingênuo (2D),19,True,True,True,40,116,158,0.9167080000000993
+0,A* espaço-tempo,20,True,True,True,48,194,238,1.6079580000001314
+0,Gulosa espaço-tempo,20,True,True,True,60,33,53,0.2740000000001075
+0,A* ingênuo (2D),20,True,True,True,48,177,221,1.4540419999997667
+0,A* espaço-tempo,21,True,True,True,36,77,112,0.601875000000085
+0,Gulosa espaço-tempo,21,True,True,True,60,33,52,0.2539580000000541
+0,A* ingênuo (2D),21,True,True,True,36,69,105,0.5470829999998372
+0,A* espaço-tempo,22,True,True,True,36,92,134,0.720916000000571
+0,Gulosa espaço-tempo,22,True,True,True,56,33,53,0.25425000000023346
+0,A* ingênuo (2D),22,True,True,True,36,76,117,0.6047080000000093
+0,A* espaço-tempo,23,True,True,True,40,105,139,0.8107090000004646
+0,Gulosa espaço-tempo,23,True,True,True,64,33,59,0.2752090000006646
+0,A* ingênuo (2D),23,True,True,True,40,88,123,0.6905830000007995
+0,A* espaço-tempo,24,True,True,True,44,172,209,1.3808329999998037
+0,Gulosa espaço-tempo,24,True,True,True,56,33,52,0.25145800000014873
+0,A* ingênuo (2D),24,True,True,True,44,154,191,1.2152919999994793
+0,A* espaço-tempo,25,True,True,True,52,214,252,1.7466250000000016
+0,Gulosa espaço-tempo,25,True,True,True,76,33,52,0.2663339999999792
+0,A* ingênuo (2D),25,True,True,True,52,196,234,1.618041000000403
+0,A* espaço-tempo,26,True,True,True,44,136,162,1.0899999999995913
+0,Gulosa espaço-tempo,26,True,True,True,60,33,53,0.2542910000000731
+0,A* ingênuo (2D),26,True,True,True,44,118,144,0.9517079999996625
+0,A* espaço-tempo,27,True,True,True,44,162,212,1.3014160000004438
+0,Gulosa espaço-tempo,27,True,True,True,64,33,59,0.2747499999999903
+0,A* ingênuo (2D),27,True,True,True,44,145,195,1.1732499999999035
+0,A* espaço-tempo,28,True,True,True,36,66,99,0.5179169999998123
+0,Gulosa espaço-tempo,28,True,True,True,72,33,58,0.2834169999994529
+0,A* ingênuo (2D),28,True,True,True,36,56,87,0.44829199999973923
+0,A* espaço-tempo,29,True,True,True,40,197,245,1.580792000000386
+0,Gulosa espaço-tempo,29,True,True,True,60,33,52,0.25979199999959235
+0,A* ingênuo (2D),29,True,True,True,40,179,227,1.4457499999993573
+5,A* espaço-tempo,0,True,True,True,32,42,96,0.36587499999996
+5,Gulosa espaço-tempo,0,True,True,True,56,35,71,0.29879100000052006
+5,A* ingênuo (2D),0,True,True,True,36,77,117,0.612666000000317
+5,A* espaço-tempo,1,True,True,True,40,183,236,1.527750000000161
+5,Gulosa espaço-tempo,1,True,True,True,52,33,57,0.2616250000002651
+5,A* ingênuo (2D),1,True,True,True,48,182,225,1.4647500000002367
+5,A* espaço-tempo,2,True,True,True,44,161,205,1.2845409999995283
+5,Gulosa espaço-tempo,2,True,True,True,60,34,65,0.30116700000082375
+5,A* ingênuo (2D),2,True,True,False,44,163,208,1.3388750000000726
+5,A* espaço-tempo,3,True,True,True,32,61,136,0.5372499999998226
+5,Gulosa espaço-tempo,3,True,True,True,64,33,56,0.26345900000013245
+5,A* ingênuo (2D),3,True,True,True,36,70,109,0.5551249999999897
+5,A* espaço-tempo,4,True,True,True,36,73,126,0.6337910000002722
+5,Gulosa espaço-tempo,4,True,True,True,60,33,54,0.2589159999999424
+5,A* ingênuo (2D),4,True,True,True,40,60,90,0.4914160000000223
+5,A* espaço-tempo,5,True,True,True,38,108,151,0.8739169999998353
+5,Gulosa espaço-tempo,5,True,True,True,76,35,64,0.2959160000006733
+5,A* ingênuo (2D),5,True,True,True,44,156,203,1.2548749999998776
+5,A* espaço-tempo,6,True,True,True,48,269,309,2.161790999999802
+5,Gulosa espaço-tempo,6,True,True,True,72,34,64,0.2908330000002124
+5,A* ingênuo (2D),6,True,True,False,48,208,245,1.6500830000003575
+5,A* espaço-tempo,7,True,True,True,36,139,228,1.1890409999999463
+5,Gulosa espaço-tempo,7,True,True,True,56,33,57,0.26608299999963947
+5,A* ingênuo (2D),7,True,True,True,44,119,160,0.989291999999864
+5,A* espaço-tempo,8,True,True,True,36,127,192,1.0657080000004981
+5,Gulosa espaço-tempo,8,True,True,True,64,33,64,0.29066599999971743
+5,A* ingênuo (2D),8,True,True,True,36,65,100,0.5207080000007025
+5,A* espaço-tempo,9,True,True,True,39,86,130,0.7428750000002537
+5,Gulosa espaço-tempo,9,True,True,True,60,35,66,0.29445799999994193
+5,A* ingênuo (2D),9,True,True,False,40,63,96,0.5227919999999386
+5,A* espaço-tempo,10,True,True,True,36,79,145,0.6807499999998967
+5,Gulosa espaço-tempo,10,True,True,True,76,33,65,0.2958749999999455
+5,A* ingênuo (2D),10,True,True,True,36,52,87,0.4288750000007724
+5,A* espaço-tempo,11,True,True,True,36,138,208,1.171499999999881
+5,Gulosa espaço-tempo,11,True,True,True,64,35,66,0.3004579999998924
+5,A* ingênuo (2D),11,True,True,True,36,81,129,0.6686249999994232
+5,A* espaço-tempo,12,True,True,True,36,83,145,0.7348330000001013
+5,Gulosa espaço-tempo,12,True,True,True,48,33,57,0.2642079999999325
+5,A* ingênuo (2D),12,True,True,True,36,44,73,0.35795799999949196
+5,A* espaço-tempo,13,True,True,True,45,206,262,1.6841669999996256
+5,Gulosa espaço-tempo,13,True,True,True,68,34,60,0.29641699999949367
+5,A* ingênuo (2D),13,True,True,False,44,133,182,1.1086250000005293
+5,A* espaço-tempo,14,True,True,True,48,224,261,1.8327500000001606
+5,Gulosa espaço-tempo,14,True,True,True,52,33,54,0.2606670000000477
+5,A* ingênuo (2D),14,True,True,False,44,144,181,1.1417500000003855
+5,A* espaço-tempo,15,True,True,True,36,155,217,1.2873330000005012
+5,Gulosa espaço-tempo,15,True,True,True,56,33,52,0.2572499999997646
+5,A* ingênuo (2D),15,True,True,True,40,132,181,1.0645000000000238
+5,A* espaço-tempo,16,True,True,True,40,164,203,1.3459590000000077
+5,Gulosa espaço-tempo,16,True,True,True,76,33,54,0.2845420000001653
+5,A* ingênuo (2D),16,True,True,True,44,158,194,1.3093330000000236
+5,A* espaço-tempo,17,True,True,True,36,159,241,1.349042000000189
+5,Gulosa espaço-tempo,17,True,True,True,68,34,69,0.29545900000016445
+5,A* ingênuo (2D),17,True,True,True,40,133,171,1.0622909999993269
+5,A* espaço-tempo,18,False,False,False,,9,9,0.05883300000064651
+5,Gulosa espaço-tempo,18,False,False,False,,9,9,0.056124999999518366
+5,A* ingênuo (2D),18,False,True,False,44,110,147,0.8894580000005092
+5,A* espaço-tempo,19,True,True,True,42,293,345,2.6490840000006344
+5,Gulosa espaço-tempo,19,True,True,True,48,33,68,0.30033400000029076
+5,A* ingênuo (2D),19,True,True,False,40,116,158,0.933707999999811
+5,A* espaço-tempo,20,True,True,True,42,266,318,2.2108750000002786
+5,Gulosa espaço-tempo,20,True,True,True,60,33,57,0.27616699999999383
+5,A* ingênuo (2D),20,True,True,True,48,177,221,1.4831250000000296
+5,A* espaço-tempo,21,True,True,True,36,115,170,0.9085409999993743
+5,Gulosa espaço-tempo,21,True,True,True,60,33,58,0.2617499999999495
+5,A* ingênuo (2D),21,True,True,True,36,69,105,0.5470000000000752
+5,A* espaço-tempo,22,True,True,True,36,139,196,1.1159589999998332
+5,Gulosa espaço-tempo,22,True,True,True,56,33,60,0.2649159999998929
+5,A* ingênuo (2D),22,True,True,True,36,76,117,0.6002499999997468
+5,A* espaço-tempo,23,True,True,True,36,119,170,0.9428329999998653
+5,Gulosa espaço-tempo,23,True,True,True,59,41,65,0.3117919999997554
+5,A* ingênuo (2D),23,True,True,False,40,88,123,0.6934999999996805
+5,A* espaço-tempo,24,True,True,True,40,190,236,1.5420420000005208
+5,Gulosa espaço-tempo,24,True,True,True,60,33,61,0.28100000000019776
+5,A* ingênuo (2D),24,True,True,True,44,154,191,1.2468749999996476
+5,A* espaço-tempo,25,True,True,True,36,123,189,1.0361250000006095
+5,Gulosa espaço-tempo,25,True,True,True,72,33,57,0.2737079999999281
+5,A* ingênuo (2D),25,True,True,True,52,196,234,1.6490419999994899
+5,A* espaço-tempo,26,True,True,True,40,252,301,2.106583999999856
+5,Gulosa espaço-tempo,26,True,True,True,52,33,60,0.2621250000007791
+5,A* ingênuo (2D),26,True,True,True,44,118,144,0.9683750000002433
+5,A* espaço-tempo,27,True,True,True,36,130,209,1.1084999999999567
+5,Gulosa espaço-tempo,27,True,True,True,64,33,66,0.2863330000000275
+5,A* ingênuo (2D),27,True,True,True,44,145,195,1.1949160000002124
+5,A* espaço-tempo,28,True,True,True,37,74,123,0.621041999999683
+5,Gulosa espaço-tempo,28,True,True,True,64,34,62,0.2932500000003557
+5,A* ingênuo (2D),28,True,True,False,36,56,87,0.45316699999986554
+5,A* espaço-tempo,29,True,True,True,40,355,425,2.96666599999984
+5,Gulosa espaço-tempo,29,True,True,True,60,33,61,0.27624999999975586
+5,A* ingênuo (2D),29,True,True,True,40,179,227,1.4642080000006885
+10,A* espaço-tempo,0,True,True,True,32,50,101,0.42833400000041877
+10,Gulosa espaço-tempo,0,True,True,True,48,35,68,0.2893750000003692
+10,A* ingênuo (2D),0,True,True,True,36,77,117,0.6177080000000501
+10,A* espaço-tempo,1,True,True,True,38,136,195,1.1550409999996347
+10,Gulosa espaço-tempo,1,True,True,True,56,33,59,0.2692499999996656
+10,A* ingênuo (2D),1,True,True,False,48,182,225,1.513124999999782
+10,A* espaço-tempo,2,True,True,True,32,54,122,0.49537499999985357
+10,Gulosa espaço-tempo,2,True,True,True,48,33,59,0.26454200000003425
+10,A* ingênuo (2D),2,True,True,True,44,163,208,1.339916000000052
+10,A* espaço-tempo,3,True,True,True,32,68,153,0.6063749999993817
+10,Gulosa espaço-tempo,3,True,True,True,56,33,58,0.26558300000001367
+10,A* ingênuo (2D),3,True,True,True,36,70,109,0.5663750000000078
+10,A* espaço-tempo,4,True,True,True,36,55,96,0.4406250000004164
+10,Gulosa espaço-tempo,4,True,True,True,64,39,63,0.30666599999928934
+10,A* ingênuo (2D),4,True,True,False,40,60,90,0.5013339999999644
+10,A* espaço-tempo,5,True,True,True,36,91,139,0.7534160000002288
+10,Gulosa espaço-tempo,5,True,True,True,72,35,64,0.300000000000189
+10,A* ingênuo (2D),5,True,True,True,44,156,203,1.2779999999992242
+10,A* espaço-tempo,6,False,False,False,,7,7,0.04320800000012781
+10,Gulosa espaço-tempo,6,False,False,False,,7,7,0.04087499999982924
+10,A* ingênuo (2D),6,False,True,False,48,208,245,1.6939169999998782
+10,A* espaço-tempo,7,True,True,True,40,183,249,1.5769170000003996
+10,Gulosa espaço-tempo,7,True,True,True,52,33,57,0.26454200000003425
+10,A* ingênuo (2D),7,True,True,False,44,119,160,1.0033329999998841
+10,A* espaço-tempo,8,True,True,True,36,115,172,0.9751250000000766
+10,Gulosa espaço-tempo,8,True,True,True,64,33,63,0.28725000000040524
+10,A* ingênuo (2D),8,True,True,True,36,65,100,0.524708999999568
+10,A* espaço-tempo,9,False,False,False,,9,9,0.05808299999987554
+10,Gulosa espaço-tempo,9,False,False,False,,9,9,0.05524999999995117
+10,A* ingênuo (2D),9,False,True,False,40,63,96,0.5287919999998891
+10,A* espaço-tempo,10,True,True,True,38,106,166,0.8967919999998131
+10,Gulosa espaço-tempo,10,True,True,True,76,33,65,0.2938750000005541
+10,A* ingênuo (2D),10,True,True,False,36,52,87,0.4295000000000826
+10,A* espaço-tempo,11,True,True,True,36,119,175,0.990458000000416
+10,Gulosa espaço-tempo,11,True,True,True,60,35,61,0.29491700000061627
+10,A* ingênuo (2D),11,True,True,True,36,81,129,0.6723329999998029
+10,A* espaço-tempo,12,True,True,True,36,72,132,0.6247500000000628
+10,Gulosa espaço-tempo,12,True,True,True,48,33,58,0.2624170000000703
+10,A* ingênuo (2D),12,True,True,False,36,44,73,0.35758299999955057
+10,A* espaço-tempo,13,True,True,True,46,266,315,2.181541000000564
+10,Gulosa espaço-tempo,13,True,True,True,64,34,64,0.2929170000003367
+10,A* ingênuo (2D),13,True,True,False,44,133,182,1.1041250000003444
+10,A* espaço-tempo,14,True,True,True,48,196,232,1.5706250000002697
+10,Gulosa espaço-tempo,14,True,True,True,52,33,53,0.2564590000000422
+10,A* ingênuo (2D),14,True,True,False,44,144,181,1.1462079999997599
+10,A* espaço-tempo,15,True,True,True,32,39,90,0.34204099999968207
+10,Gulosa espaço-tempo,15,True,True,True,56,33,58,0.26270900000024966
+10,A* ingênuo (2D),15,True,True,True,40,132,181,1.0857919999995858
+10,A* espaço-tempo,16,True,True,True,40,118,157,0.9728749999995401
+10,Gulosa espaço-tempo,16,True,True,True,76,33,54,0.28195800000041515
+10,A* ingênuo (2D),16,True,True,False,44,158,194,1.305375000000275
+10,A* espaço-tempo,17,True,True,True,38,255,343,2.1494170000000423
+10,Gulosa espaço-tempo,17,True,True,True,72,34,67,0.29812499999959385
+10,A* ingênuo (2D),17,True,True,False,40,133,171,1.0683750000000103
+10,A* espaço-tempo,18,False,False,False,,9,9,0.05937499999930651
+10,Gulosa espaço-tempo,18,False,False,False,,9,9,0.0569590000001341
+10,A* ingênuo (2D),18,False,True,False,44,110,147,0.8913749999992504
+10,A* espaço-tempo,19,True,True,True,40,263,326,2.2740829999996492
+10,Gulosa espaço-tempo,19,True,True,True,48,33,68,0.28616699999961526
+10,A* ingênuo (2D),19,True,True,True,40,116,158,0.9372500000006667
+10,A* espaço-tempo,20,True,True,True,42,285,339,2.3630409999997326
+10,Gulosa espaço-tempo,20,True,True,True,44,34,65,0.2808329999997028
+10,A* ingênuo (2D),20,True,True,False,48,177,221,1.5108330000002113
+10,A* espaço-tempo,21,True,True,True,32,41,85,0.3626670000000942
+10,Gulosa espaço-tempo,21,True,True,True,60,33,56,0.26633299999989646
+10,A* ingênuo (2D),21,True,True,True,36,69,105,0.5577909999994191
+10,A* espaço-tempo,22,True,True,True,36,166,250,1.3695829999997855
+10,Gulosa espaço-tempo,22,True,True,True,56,33,59,0.28183299999984257
+10,A* ingênuo (2D),22,True,True,True,36,76,117,0.6147920000003637
+10,A* espaço-tempo,23,True,True,True,39,205,259,1.647000000000176
+10,Gulosa espaço-tempo,23,True,True,True,59,40,63,0.3114160000006194
+10,A* ingênuo (2D),23,True,True,False,40,88,123,0.7073339999994488
+10,A* espaço-tempo,24,True,True,True,37,138,210,1.1500839999998291
+10,Gulosa espaço-tempo,24,True,True,True,60,39,72,0.31908300000083045
+10,A* ingênuo (2D),24,True,True,False,44,154,191,1.2483750000003013
+10,A* espaço-tempo,25,True,True,True,36,136,221,1.1725000000000207
+10,Gulosa espaço-tempo,25,True,True,True,68,33,58,0.2759589999996592
+10,A* ingênuo (2D),25,True,True,True,52,196,234,1.6485409999997813
+10,A* espaço-tempo,26,True,True,True,42,242,273,1.9302920000008328
+10,Gulosa espaço-tempo,26,True,True,True,48,33,60,0.26012500000049954
+10,A* ingênuo (2D),26,True,True,False,44,118,144,0.9683329999994328
+10,A* espaço-tempo,27,True,True,True,32,58,115,0.5012500000001197
+10,Gulosa espaço-tempo,27,True,True,True,60,33,71,0.2902919999998588
+10,A* ingênuo (2D),27,True,True,True,44,145,195,1.1904170000001102
+10,A* espaço-tempo,28,True,True,True,36,75,121,0.6171659999996137
+10,Gulosa espaço-tempo,28,True,True,True,68,33,61,0.29212499999964336
+10,A* ingênuo (2D),28,True,True,True,36,56,87,0.45479100000012096
+10,A* espaço-tempo,29,True,True,True,32,68,162,0.6244999999998058
+10,Gulosa espaço-tempo,29,True,True,True,60,33,61,0.2762079999998335
+10,A* ingênuo (2D),29,True,True,True,40,179,227,1.4714590000002303
+15,A* espaço-tempo,0,True,True,True,32,44,92,0.3730409999995743
+15,Gulosa espaço-tempo,0,True,True,True,40,35,75,0.2912909999999158
+15,A* ingênuo (2D),0,True,True,True,36,77,117,0.6147499999995532
+15,A* espaço-tempo,1,True,True,True,36,114,172,0.9475830000003072
+15,Gulosa espaço-tempo,1,True,True,True,48,33,59,0.2643330000005051
+15,A* ingênuo (2D),1,True,True,True,48,182,225,1.4858329999993813
+15,A* espaço-tempo,2,True,True,True,40,111,166,0.900958999999979
+15,Gulosa espaço-tempo,2,True,True,True,72,35,65,0.3097919999994758
+15,A* ingênuo (2D),2,True,True,False,44,163,208,1.3384579999993207
+15,A* espaço-tempo,3,True,True,True,32,67,141,0.6105420000004358
+15,Gulosa espaço-tempo,3,True,True,True,56,33,56,0.2742500000003645
+15,A* ingênuo (2D),3,True,True,True,36,70,109,0.5693340000005875
+15,A* espaço-tempo,4,True,True,True,36,54,99,0.4391249999997626
+15,Gulosa espaço-tempo,4,True,True,True,55,37,60,0.28737500000008964
+15,A* ingênuo (2D),4,True,True,False,40,60,90,0.5059999999996734
+15,A* espaço-tempo,5,True,True,True,36,125,188,1.0260420000003379
+15,Gulosa espaço-tempo,5,True,True,True,72,35,64,0.2993749999999906
+15,A* ingênuo (2D),5,True,True,True,44,156,203,1.2716249999993323
+15,A* espaço-tempo,6,False,False,False,,7,7,0.042833000000186416
+15,Gulosa espaço-tempo,6,False,False,False,,7,7,0.04049999999988785
+15,A* ingênuo (2D),6,False,True,False,48,208,245,1.680374999999401
+15,A* espaço-tempo,7,True,True,True,40,167,231,1.4159999999998618
+15,Gulosa espaço-tempo,7,True,True,True,44,33,57,0.26562499999993605
+15,A* ingênuo (2D),7,True,True,False,44,119,160,0.9935829999996315
+15,A* espaço-tempo,8,True,True,True,36,100,156,0.8571250000004582
+15,Gulosa espaço-tempo,8,True,True,True,64,33,63,0.28737499999920146
+15,A* ingênuo (2D),8,True,True,True,36,65,100,0.5233329999994041
+15,A* espaço-tempo,9,False,False,False,,9,9,0.058792000000806866
+15,Gulosa espaço-tempo,9,False,False,False,,9,9,0.05587499999926138
+15,A* ingênuo (2D),9,False,True,False,40,63,96,0.5267499999996872
+15,A* espaço-tempo,10,True,True,True,36,76,135,0.6357080000007898
+15,Gulosa espaço-tempo,10,True,True,True,72,33,63,0.29116699999942597
+15,A* ingênuo (2D),10,True,True,False,36,52,87,0.4263340000001392
+15,A* espaço-tempo,11,True,True,True,36,149,224,1.2704999999995081
+15,Gulosa espaço-tempo,11,True,True,True,56,35,68,0.2977089999998128
+15,A* ingênuo (2D),11,True,True,True,36,81,129,0.6712079999999787
+15,A* espaço-tempo,12,True,True,True,36,60,110,0.5182500000007195
+15,Gulosa espaço-tempo,12,True,True,True,48,33,63,0.2802499999994268
+15,A* ingênuo (2D),12,True,True,False,36,44,73,0.35808299999917637
+15,A* espaço-tempo,13,True,True,True,42,192,246,1.5482499999999177
+15,Gulosa espaço-tempo,13,True,True,True,50,38,73,0.31291700000046774
+15,A* ingênuo (2D),13,True,True,False,44,133,182,1.1039579999998494
+15,A* espaço-tempo,14,False,False,False,,9,9,0.05841699999997729
+15,Gulosa espaço-tempo,14,False,False,False,,9,9,0.05550000000020816
+15,A* ingênuo (2D),14,False,True,False,44,144,181,1.1414169999994783
+15,A* espaço-tempo,15,True,True,True,32,39,89,0.342458000000434
+15,Gulosa espaço-tempo,15,True,True,True,54,35,58,0.27608300000014907
+15,A* ingênuo (2D),15,True,True,True,40,132,181,1.0630830000000202
+15,A* espaço-tempo,16,True,True,True,41,185,249,1.5461660000006816
+15,Gulosa espaço-tempo,16,True,True,True,72,33,56,0.28308300000023934
+15,A* ingênuo (2D),16,True,True,False,44,158,194,1.3082500000001218
+15,A* espaço-tempo,17,True,True,True,37,220,323,1.880416000000551
+15,Gulosa espaço-tempo,17,True,True,True,70,39,63,0.3128749999996572
+15,A* ingênuo (2D),17,True,True,False,40,133,171,1.069957999999538
+15,A* espaço-tempo,18,False,False,False,,9,9,0.059499999999879094
+15,Gulosa espaço-tempo,18,False,False,False,,9,9,0.05650000000034794
+15,A* ingênuo (2D),18,False,True,False,44,110,147,0.8912919999994884
+15,A* espaço-tempo,19,True,True,True,32,54,132,0.5005410000000765
+15,Gulosa espaço-tempo,19,True,True,True,48,33,68,0.2852909999999653
+15,A* ingênuo (2D),19,True,True,True,40,116,158,0.9388750000001167
+15,A* espaço-tempo,20,True,True,True,40,306,387,2.5625420000006116
+15,Gulosa espaço-tempo,20,True,True,True,44,35,69,0.35883299999994733
+15,A* ingênuo (2D),20,True,True,False,48,177,221,1.5037090000005193
+15,A* espaço-tempo,21,True,True,True,34,49,91,0.4019580000003131
+15,Gulosa espaço-tempo,21,True,True,True,60,33,56,0.26220799999965294
+15,A* ingênuo (2D),21,True,True,False,36,69,105,0.5460000000008236
+15,A* espaço-tempo,22,True,True,True,41,139,193,1.1170830000004628
+15,Gulosa espaço-tempo,22,True,True,True,56,34,61,0.2722500000000849
+15,A* ingênuo (2D),22,True,True,False,36,76,117,0.5966250000000173
+15,A* espaço-tempo,23,True,True,True,36,131,190,1.0477910000004087
+15,Gulosa espaço-tempo,23,True,True,True,60,35,65,0.30083399999991656
+15,A* ingênuo (2D),23,True,True,False,40,88,123,0.7211250000001002
+15,A* espaço-tempo,24,True,True,True,32,54,121,0.4628749999993076
+15,Gulosa espaço-tempo,24,True,True,True,57,34,67,0.2843749999996703
+15,A* ingênuo (2D),24,True,True,False,44,154,191,1.2242080000000044
+15,A* espaço-tempo,25,False,False,False,,4,4,0.02591700000031949
+15,Gulosa espaço-tempo,25,False,False,False,,4,4,0.023375000000491752
+15,A* ingênuo (2D),25,False,True,False,52,196,234,1.6077079999998745
+15,A* espaço-tempo,26,True,True,True,40,238,291,1.9131659999995776
+15,Gulosa espaço-tempo,26,True,True,True,44,33,60,0.2540829999997385
+15,A* ingênuo (2D),26,True,True,True,44,118,144,0.9538339999997092
+15,A* espaço-tempo,27,True,True,True,34,78,140,0.6352500000001982
+15,Gulosa espaço-tempo,27,True,True,True,62,37,75,0.30929199999985
+15,A* ingênuo (2D),27,True,True,False,44,145,195,1.1679589999999962
+15,A* espaço-tempo,28,True,True,True,38,82,132,0.6534169999996564
+15,Gulosa espaço-tempo,28,True,True,True,66,35,65,0.30287500000003575
+15,A* ingênuo (2D),28,True,True,False,36,56,87,0.44325000000000614
+15,A* espaço-tempo,29,True,True,True,34,83,144,0.6930419999999771
+15,Gulosa espaço-tempo,29,True,True,True,72,35,68,0.3019590000006289
+15,A* ingênuo (2D),29,True,True,False,40,179,227,1.4535829999999805
+20,A* espaço-tempo,0,True,True,True,33,41,85,0.3382910000002681
+20,Gulosa espaço-tempo,0,True,True,True,52,37,68,0.2957079999994505
+20,A* ingênuo (2D),0,True,True,False,36,77,117,0.6047499999999317
+20,A* espaço-tempo,1,True,True,True,36,114,173,0.9381249999993457
+20,Gulosa espaço-tempo,1,True,True,True,52,33,59,0.2629580000004239
+20,A* ingênuo (2D),1,True,True,True,48,182,225,1.4625830000003504
+20,A* espaço-tempo,2,True,True,True,36,107,161,0.880958999999848
+20,Gulosa espaço-tempo,2,True,True,True,48,36,76,0.30362499999991854
+20,A* ingênuo (2D),2,True,True,True,44,163,208,1.3089580000000822
+20,A* espaço-tempo,3,True,True,True,32,63,133,0.5402080000003195
+20,Gulosa espaço-tempo,3,True,True,True,56,33,58,0.26149999999969253
+20,A* ingênuo (2D),3,True,True,True,36,70,109,0.5572080000000312
+20,A* espaço-tempo,4,True,True,True,37,84,132,0.6494169999999855
+20,Gulosa espaço-tempo,4,True,True,True,45,41,67,0.31949999999980605
+20,A* ingênuo (2D),4,True,True,False,40,60,90,0.494208000000107
+20,A* espaço-tempo,5,True,True,True,42,75,103,0.5837089999998213
+20,Gulosa espaço-tempo,5,True,True,True,91,43,70,0.3598750000000095
+20,A* ingênuo (2D),5,True,True,False,44,156,203,1.2653330000000906
+20,A* espaço-tempo,6,False,False,False,,7,7,0.042790999999375856
+20,Gulosa espaço-tempo,6,False,False,False,,7,7,0.039874999999689464
+20,A* ingênuo (2D),6,False,True,False,48,208,245,1.652458999999773
+20,A* espaço-tempo,7,True,True,True,40,179,245,1.5049160000000228
+20,Gulosa espaço-tempo,7,True,True,True,44,33,57,0.25670800000021643
+20,A* ingênuo (2D),7,True,True,False,44,119,160,0.975249999999761
+20,A* espaço-tempo,8,True,True,True,32,34,77,0.2952499999997471
+20,Gulosa espaço-tempo,8,True,True,True,56,33,64,0.27716600000005087
+20,A* ingênuo (2D),8,True,True,True,36,65,100,0.5138340000003794
+20,A* espaço-tempo,9,False,False,False,,9,9,0.05737500000080331
+20,Gulosa espaço-tempo,9,False,False,False,,9,9,0.054541999999990765
+20,A* ingênuo (2D),9,False,True,False,40,63,96,0.513875000000219
+20,A* espaço-tempo,10,True,True,True,37,145,230,1.1904579999999498
+20,Gulosa espaço-tempo,10,True,True,True,60,33,66,0.2819170000005755
+20,A* ingênuo (2D),10,True,True,False,36,52,87,0.42029199999937816
+20,A* espaço-tempo,11,True,True,True,36,148,227,1.2520409999998705
+20,Gulosa espaço-tempo,11,True,True,True,52,35,68,0.29279199999976413
+20,A* ingênuo (2D),11,True,True,True,36,81,129,0.6599579999999605
+20,A* espaço-tempo,12,True,True,True,32,37,85,0.32549999999975654
+20,Gulosa espaço-tempo,12,True,True,True,44,33,58,0.25875000000041837
+20,A* ingênuo (2D),12,True,True,False,36,44,73,0.35120800000054686
+20,A* espaço-tempo,13,True,True,True,40,140,207,1.1125410000003555
+20,Gulosa espaço-tempo,13,True,True,True,48,34,65,0.2799160000002132
+20,A* ingênuo (2D),13,True,True,False,44,133,182,1.0842499999998978
+20,A* espaço-tempo,14,False,False,False,,9,9,0.05683399999956151
+20,Gulosa espaço-tempo,14,False,False,False,,9,9,0.05400000000044258
+20,A* ingênuo (2D),14,False,True,False,44,144,181,1.123500000000277
+20,A* espaço-tempo,15,True,True,True,32,39,91,0.34024999999981986
+20,Gulosa espaço-tempo,15,True,True,True,53,34,58,0.2634580000000497
+20,A* ingênuo (2D),15,True,True,True,40,132,181,1.0470419999997205
+20,A* espaço-tempo,16,True,True,True,40,147,203,1.2147919999998535
+20,Gulosa espaço-tempo,16,True,True,True,72,33,56,0.276458999999285
+20,A* ingênuo (2D),16,True,True,False,44,158,194,1.283332999999942
+20,A* espaço-tempo,17,True,True,True,32,75,152,0.6353329999999602
+20,Gulosa espaço-tempo,17,True,True,True,60,34,72,0.2893750000003692
+20,A* ingênuo (2D),17,True,True,False,40,133,171,1.0454160000001878
+20,A* espaço-tempo,18,False,False,False,,9,9,0.05870800000007392
+20,Gulosa espaço-tempo,18,False,False,False,,9,9,0.055582999999970184
+20,A* ingênuo (2D),18,False,True,False,44,110,147,0.8767499999997597
+20,A* espaço-tempo,19,True,True,True,39,121,176,1.0282909999999035
+20,Gulosa espaço-tempo,19,True,True,True,60,35,67,0.29833299999992846
+20,A* ingênuo (2D),19,True,True,False,40,116,158,0.9248330000000138
+20,A* espaço-tempo,20,True,True,True,38,176,263,1.447167000000249
+20,Gulosa espaço-tempo,20,True,True,True,60,33,57,0.2613340000001685
+20,A* ingênuo (2D),20,True,True,False,48,177,221,1.455500000000498
+20,A* espaço-tempo,21,False,False,False,,7,7,0.042042000000463986
+20,Gulosa espaço-tempo,21,False,False,False,,7,7,0.03945799999982569
+20,A* ingênuo (2D),21,False,True,False,36,69,105,0.5448330000001889
+20,A* espaço-tempo,22,True,True,True,32,35,75,0.2919590000001193
+20,Gulosa espaço-tempo,22,True,True,True,52,33,59,0.2588750000001028
+20,A* ingênuo (2D),22,True,True,True,36,76,117,0.6026669999998902
+20,A* espaço-tempo,23,True,True,True,36,148,207,1.1367079999997642
+20,Gulosa espaço-tempo,23,True,True,True,36,44,84,0.34758299999992914
+20,A* ingênuo (2D),23,True,True,False,40,88,123,0.6927079999998753
+20,A* espaço-tempo,24,True,True,True,33,60,118,0.49708299999995376
+20,Gulosa espaço-tempo,24,True,True,True,56,36,73,0.300000000000189
+20,A* ingênuo (2D),24,True,True,False,44,154,191,1.2185420000001557
+20,A* espaço-tempo,25,True,True,True,35,61,116,0.5323329999997739
+20,Gulosa espaço-tempo,25,True,True,True,48,35,67,0.30370799999968057
+20,A* ingênuo (2D),25,True,True,False,52,196,234,1.645041999999819
+20,A* espaço-tempo,26,True,True,True,36,157,232,1.3008330000001678
+20,Gulosa espaço-tempo,26,True,True,True,44,33,60,0.2548329999996213
+20,A* ingênuo (2D),26,True,True,False,44,118,144,0.9545829999995092
+20,A* espaço-tempo,27,True,True,True,32,51,110,0.4389590000002386
+20,Gulosa espaço-tempo,27,True,True,True,56,34,74,0.2908750000001348
+20,A* ingênuo (2D),27,True,True,False,44,145,195,1.1681669999994426
+20,A* espaço-tempo,28,True,True,True,36,57,99,0.48512499999997516
+20,Gulosa espaço-tempo,28,True,True,True,57,34,66,0.30141700000019256
+20,A* ingênuo (2D),28,True,True,True,36,56,87,0.4544590000001847
+20,A* espaço-tempo,29,True,True,True,34,58,110,0.4930830000002828
+20,Gulosa espaço-tempo,29,True,True,True,65,38,70,0.32058299999970785
+20,A* ingênuo (2D),29,True,True,False,40,179,227,1.437457999999836
